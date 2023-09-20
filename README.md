@@ -175,7 +175,7 @@ Navigate to the Agents tab, and click Add New Agent.
 <img src="https://i.imgur.com/stHi6qA.png">
 </p>
 <p>
-Here we will create our admin agents. I have entered generic login information above.
+Here we will create our admin agents. I have entered generic login information above. Click Set Password.
 </p>
 <br><br>
 
@@ -216,7 +216,7 @@ We will now add another agent. Click the Agents tab, and click Add New Agent.
 <img src="https://i.imgur.com/iuM6Wld.png">
 </p>
 <p>
-You can of course use any information you like for the lab, I have entered generic information as shown.
+You can of course use any login information you like for the lab, I have entered generic information as shown. Don't forget to click Set Password, create a password, and uncheck the boxes as we did previously.
 </p>
 <br><br>
 
@@ -224,7 +224,7 @@ You can of course use any information you like for the lab, I have entered gener
 <img src="https://i.imgur.com/oJI6nzJ.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Click the Access tab, and Select Department. We will add this user to the Support team. For Role we will select View Only. By choosing this we are indicating that are creating a lower tier user who will have limited permissions. Click Create.
 </p>
 <br><br>
 
@@ -232,7 +232,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/l4WM8v6.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Navigate back to the Dashboard and click the Agent Panel link. This will switch our Dashboard from the Admin panel to the Agent panel.
 </p>
 <br><br>
 
@@ -240,7 +240,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/1VSgjej.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+We will now create our users. In an enterprise setting this would be where all members of each team who have permission to submit a support ticket would be. For the lab we will create a couple users to demonstrate ticket life cycles. Click Users and Add User.
 </p>
 <br><br>
 
@@ -248,7 +248,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/peE9iXe.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Once again you may name your user as you wish. I have entered generic information as shown. Click Add User.
 </p>
 <br><br>
 
@@ -256,7 +256,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/3PIMNFT.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Once again we will click Add User. The creation of the next user is not shown, but just as you did previously you may choose a name, and click Add User.
 </p>
 <br><br>
 
@@ -264,7 +264,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/1fzfMnq.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+We now have 2 users able to submit support tickets.
 </p>
 <br><br>
 
@@ -272,7 +272,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/YiFQGht.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+We will now define our SLA or Service Level Agreements. These are the levels at which each ticket will be assigned according to urgency and time frame to be completed. Click Manage, SLA, and Add New SLA Plan.
 </p>
 <br><br>
 
