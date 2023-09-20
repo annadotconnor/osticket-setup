@@ -183,17 +183,10 @@ Here we will create our admin agents. I have entered generic login information a
 <img src="https://i.imgur.com/1QE911E.png">
 </p>
 <p>
-Be sure to uncheck these two boxes if following for a lab. In a live enterprise setting we would of course keep these options, but for the lab, please <b>uncheck</b> these and enter a password.
+Be sure to uncheck these two boxes if following for a lab. In a live enterprise setting we would of course keep these options, but for the lab, please <b>uncheck</b> these and enter a password. Click Set.
 </p>
 <br><br>
 
-<p>
-<img src="https://i.imgur.com/Y0GXqE1.png">
-</p>
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br><br>
 
 <p>
 <img src="https://i.imgur.com/dSEgUtP.png">
