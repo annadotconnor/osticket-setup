@@ -111,7 +111,7 @@ We will now create Departments. Please navigate to the Departments tab.
 <img src="https://i.imgur.com/aqeCgaU.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Our first Department will be System Administrators. For this lab we will keep the other options default during this step. 
 </p>
 <br><br>
 
@@ -119,7 +119,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/yBUNcdu.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Scroll down and click Create Dept.
 </p>
 <br><br>
 
@@ -127,7 +127,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/i13h2qz.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+We now have a System Administrators Department. 
 </p>
 <br><br>
 
@@ -135,7 +135,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/PfxL7uc.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Navigate to the Teams tab and click Add New Team. You will see there is already a Level I Support team. This has been added automatically during installation.
 </p>
 <br><br>
 
@@ -143,7 +143,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/33mkUsi.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+So continuing on with our support teams, we will now create a Level II Support team. 
 </p>
 <br><br>
 
@@ -151,7 +151,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/2jpA7kV.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Click the Members tab. We will create more users shortly, but for now add yourself as the user to the support team. Click Create Team.
 </p>
 <br><br>
 
@@ -159,7 +159,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/zjLqCvZ.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Navigate to Settings and Users, and make sure the highlighted box is <b>unchecked</b>. 
 </p>
 <br><br>
 
@@ -167,7 +167,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/bOQrUOj.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Navigate to the Agents tab, and click Add New Agent.
 </p>
 <br><br>
 
@@ -175,7 +175,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/stHi6qA.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Here we will create our admin agents. I have entered generic login information above.
 </p>
 <br><br>
 
@@ -183,7 +183,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/1QE911E.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Be sure to uncheck these two boxes if following for a lab. In a live enterprise setting we would of course keep these options, but for the lab, please <b>uncheck</b> these and enter a password.
 </p>
 <br><br>
 
