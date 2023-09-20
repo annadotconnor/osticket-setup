@@ -304,7 +304,7 @@ And our last tier SEV-C will be for less urgent events. Click Add Plan.
 <img src="https://i.imgur.com/5PjrCeP.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+We now have 3 SLA tiers to sort tickets into. 
 </p>
 <br><br>
 
@@ -312,7 +312,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/BbMZSoP.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+We have Default Help Topics available to us. We will expand on the Help Topics available to our users to select upon submitting their support tickets. Click the Help Topics tab, and Add New Help Topic.
 </p>
 <br><br>
 
@@ -320,7 +320,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/OrtJwwp.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+We will add 4 new Help Topics. Not all will be shown because each will be exactly the same steps. Please click Add Topic after the creation of each.
 </p>
 <br><br>
 
@@ -328,7 +328,13 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/4FAeKAI.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Here is the first Help Topic Created. Please create all of the following Help Topics:<br>
+  <ul>
+<li>Business Critical Outage</li>
+<li>Personal Computer Issues</li>
+<li>Equipment Request</li>
+<li>Password Reset</li>
+</ul>
 </p>
 <br><br>
 
@@ -336,7 +342,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/6SLsKa1.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Once completed your list should look like this. We have now configured all aspects needed to continue with osTicket life cycles demonstration. Please navigate to <a href="https://github.com/annadotconnor/ticket-lifecycle">osTicket Life Cycles</a> to continue.
 </p>
 <br><br>
 
