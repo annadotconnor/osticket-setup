@@ -272,7 +272,7 @@ We now have 2 users able to submit support tickets.
 <img src="https://i.imgur.com/YiFQGht.png">
 </p>
 <p>
-We will now define our SLA or Service Level Agreements. These are the levels at which each ticket will be assigned according to urgency and time frame to be completed. Click Manage, SLA, and Add New SLA Plan.
+We will now define our SLA or Service Level Agreements. These will be the levels at which each ticket will be assigned according to urgency and time frame to be completed. Click Manage, SLA, and Add New SLA Plan.
 </p>
 <br><br>
 
@@ -280,7 +280,7 @@ We will now define our SLA or Service Level Agreements. These are the levels at 
 <img src="https://i.imgur.com/XCoej9J.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+The first level we're creating is Severity Level A or SEV-A. This would be the level with the most urgency, and the least amount of time to complete. This would be used for catastrophic or emergency events needing immediate attention. Click Add Plan.
 </p>
 <br><br>
 
@@ -288,7 +288,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/if2wHtg.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Our next level SEV-B will be a mid tier. Click Add Plan.
 </p>
 <br><br>
 
@@ -296,7 +296,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/gLl4HPf.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+And our last tier SEV-C will be for less urgent events. Click Add Plan.
 </p>
 <br><br>
 
