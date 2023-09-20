@@ -192,7 +192,7 @@ Be sure to uncheck these two boxes if following for a lab. In a live enterprise 
 <img src="https://i.imgur.com/dSEgUtP.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Navigate to the Access tab. Under Primary Department please select the System Administrators department we created. Under Select Role you will also choose the Role you created.
 </p>
 <br><br>
 
@@ -200,7 +200,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/JpdjZqB.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+Navigate to the Teams tab, select the Team we have created. Click Create.
 </p>
 <br><br>
 
@@ -208,7 +208,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/p0Ws2Z4.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+We will now add another agent. Click the Agents tab, and click Add New Agent.
 </p>
 <br><br>
 
@@ -216,7 +216,7 @@ Lorem ipsum dolor sit amet
 <img src="https://i.imgur.com/iuM6Wld.png">
 </p>
 <p>
-Lorem ipsum dolor sit amet
+You can of course use any information you like for the lab, I have entered generic information as shown.
 </p>
 <br><br>
 
