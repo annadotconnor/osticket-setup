@@ -31,7 +31,7 @@ This tutorial outlines the configuration of the open-source help desk ticketing 
 <img src="https://i.imgur.com/YHtQSnw.png">
 </p>
 <p>
-Welcome to osTicket! This is our admin dashboard. Once we have tickets created, they will appear here. As a default you will be created as the first agent. We must create our other agents.
+Welcome to osTicket! This is our admin dashboard. 
 </p>
 <br><br>
 
