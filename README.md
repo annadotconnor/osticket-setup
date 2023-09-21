@@ -39,7 +39,7 @@ Welcome to osTicket! This is our admin dashboard.
 <img src="https://i.imgur.com/lAmQT3n.png">
 </p>
 <p>
-Navigating to the Agents tab, you will see currently the only user is myself. 
+Navigating to the Agents tab, you will be added as default. 
 </p>
 <br><br>
 
