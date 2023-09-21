@@ -31,7 +31,7 @@ This tutorial outlines the configuration of the open-source help desk ticketing 
 <img src="https://i.imgur.com/YHtQSnw.png">
 </p>
 <p>
-This is our admin dashboard. Once we have tickets created, they will appear here. First, we must create our other admins.
+Welcome to osTicket! This is our admin dashboard. Once we have tickets created, they will appear here. As a default you will be created as the first agent. We must create our other agents.
 </p>
 <br><br>
 
@@ -55,7 +55,7 @@ From the Agents tab, click Roles, and Add New Role.
 <img src="https://i.imgur.com/IS3ZO03.png">
 </p>
 <p>
-You can name your admin as you wish, but we are basically creating one admin that has full access. Click Add Role at the bottom once you've named your admin.
+You can name your agent as you wish, but we are basically creating one agent that has full access. Click Add Role at the bottom once you've named your agent.
 </p>
 <br><br>
 
