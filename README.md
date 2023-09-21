@@ -55,7 +55,7 @@ From the Agents tab, click Roles, and Add New Role.
 <img src="https://i.imgur.com/IS3ZO03.png">
 </p>
 <p>
-You can name your agent as you wish, but we are basically creating one agent that has full access. Click Add Role at the bottom once you've named your agent.
+We will create our first Role. These will be assigned to agents to grant permissions to various features. Our first Role will grant all access.
 </p>
 <br><br>
 
@@ -71,7 +71,7 @@ Click the permissions tab.
 <img src="https://i.imgur.com/z0Vy5gv.png">
 </p>
 <p>
-You will see Tickets, Tasks, and Knoledgebase above the check boxes. Check all boxes on all three tabs.
+You will see Tickets, Tasks, and Knowledgebase above the check boxes. Check all boxes on all three tabs.
 </p>
 <br><br>
 
@@ -95,7 +95,7 @@ Last one. Click Add Role to complete.
 <img src="https://i.imgur.com/yh8d19u.png">
 </p>
 <p>
-We have now successfully added our first role. 
+We have now successfully added our first Role. 
 </p>
 <br><br>
 
